@@ -35,7 +35,8 @@ The repository provides:
 climate-change-analysis/
 ├── climate-change-analysis.ipynb   # Full EDA notebook  
 ├── climate_change_dataset.csv      # Source dataset  
-├── Climate_Change_Analysis.twbx    # Tableau packaged dashboard  
+├── Climate_Change_Analysis.twbx    # Tableau packaged dashboard
+├── image.png                       # Dashboard snapshot  
 └── README.md                       # Project documentation  
 
 ## ⚡ Getting Started
