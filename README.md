@@ -42,8 +42,8 @@ climate-change-analysis/
 ## ⚡ Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/credit-risk-eda.git
-cd credit-risk-eda
+git clone https://github.com/Kashvi1811/Climate-Change-Analysis-EDA/.git
+cd Climate-Change-Analysis-EDA
 ````
 
 2. (Optional) Create a virtual environment:
