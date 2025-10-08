@@ -33,6 +33,7 @@ The repository provides:
 
 ## 📂 Project Structure
 climate-change-analysis/
+
 ├── climate-change-analysis.ipynb     # Full EDA notebook  
 ├── climate_change_dataset.csv         # Source dataset  
 ├── Climate_Change_Analysis.twbx      # Tableau packaged dashboard  
